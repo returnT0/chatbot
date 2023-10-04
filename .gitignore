@@ -1,0 +1,4 @@
+# Project exclude paths
+/chatbot.js
+/index.js
+/interfaces.js
